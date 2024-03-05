@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: http://indo4d.rsv-1901.at/sitemap.xml
+Sitemap: https://indo4d.rsv-1901.at/sitemap.xml
