@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: https://bius303.scrollnav.com/sitemap.xml
+Sitemap: http://indo4d.rsv-1901.at/sitemap.xml
